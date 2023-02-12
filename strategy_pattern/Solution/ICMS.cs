@@ -1,4 +1,4 @@
-﻿namespace strategy_pattern
+﻿namespace strategy_pattern.Solution
 {
     public class ICMS : ITaxType
     {
