@@ -1,4 +1,4 @@
-﻿namespace chain_responsability.Violation
+﻿namespace chain_responsibility.Violation
 {
     public class DiscountCalculatorViolation
     {

@@ -1,6 +1,6 @@
-﻿using chain_responsability;
-using chain_responsability.Solution;
-using chain_responsability.Violation;
+﻿using chain_responsibility;
+using chain_responsibility.Solution;
+using chain_responsibility.Violation;
 
 Solution();
 Violation();

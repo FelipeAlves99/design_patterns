@@ -1,4 +1,6 @@
-﻿namespace chain_responsability.Violation
+﻿using chain_responsibility;
+
+namespace chain_responsibility.Violation
 {
     public class FiveItemDiscountViolation
     {

@@ -1,4 +1,6 @@
-﻿namespace chain_responsability.Solution
+﻿using chain_responsibility;
+
+namespace chain_responsibility.Solution
 {
     public class FiveHundredPlusValueDiscount : IDiscount
     {

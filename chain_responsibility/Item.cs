@@ -1,4 +1,4 @@
-﻿namespace chain_responsability
+﻿namespace chain_responsibility
 {
     public class Item
     {

@@ -1,4 +1,4 @@
-﻿namespace chain_responsability.Solution
+﻿namespace chain_responsibility.Solution
 {
     public interface IDiscount
     {
