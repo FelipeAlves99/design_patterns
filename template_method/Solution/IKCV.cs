@@ -1,6 +1,4 @@
-﻿using template_method.Solution;
-
-namespace template_method
+﻿namespace template_method.Solution
 {
     public class IKCV : TemplateTaxCondition
     {
@@ -22,10 +20,8 @@ namespace template_method
         private bool HasItemBiggerThan100(Budget budget)
         {
             foreach (var item in budget.Items)
-            {
                 if (item.Value > 100)
                     return true;
-            }
 
             return false;
         }
